@@ -37,7 +37,7 @@ steps:
       from_secret: SSH_KEY
     username:
       from_secret: USER
-    script: bash ~/apps/portfoio-svelte/deploy.sh
+    script: bash ~/apps/portfolio-svelte/deploy.sh
   when:
     branch:
     - main
