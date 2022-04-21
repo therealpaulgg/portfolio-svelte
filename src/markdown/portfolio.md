@@ -2,7 +2,7 @@ Note: any projects I put on this page are personal/freelance projects. I do quit
 
 ## Development Projects
 
-- [Portfolio Website (haha)](https://github.com/therealpaulgg/Portfolio-Redux)
+- [Portfolio Website (haha)](https://github.com/therealpaulgg/portfolio-svelte)
 - [Start Page Website, simple but very practical](https://github.com/therealpaulgg/browser-startpage-redux)
 - Developing websites in React (React, React Native, Gatsby) for personal projects/freelance
 - Self-made blog made in VueJS 2 and Node.JS (I hope to replace this one day)
@@ -13,7 +13,7 @@ Note: any projects I put on this page are personal/freelance projects. I do quit
 - Set up an email server for random things, utilized OpenGPG to find out how to send encrypted emails
 - I host all of my applications on a [Digitalocean droplet.](https://digitalocean.com) Self managed.
 - I deploy my apps using [Drone CI.](https://www.drone.io/)
-- I plan to set up a nice home network utilizing Ubiquiti hardware, separating my main network devices from smart home devices. VLANs, VPNs, network hardening, etc.
+- I have set up a nice home network utilizing Ubiquiti hardware, separating my main network devices from smart home devices. VLANs, VPNs, network hardening, etc.
 
 ## Misc (Technical Competency, Cybersecurity)
 

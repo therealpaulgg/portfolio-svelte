@@ -31,7 +31,7 @@
     <title>Skills | Paul Gellai Portfolio</title>
 </svelte:head>
 
-<div>This is a web-based version of my resume.</div>
+<div class="mt-2">This is a web-based version of my resume.</div>
 <div class="font-bold text-2xl">Contact</div>
 <p>
     To help prevent <em>most</em> pesky bots from spamming my contact information, I have masked my emails

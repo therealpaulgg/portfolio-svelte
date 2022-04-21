@@ -4,6 +4,7 @@
     import { setTheme, theme } from "../store";
 
     import "../app.css";
+    import Navbar from "../components/Navbar.svelte"
     import Typewriter from "../components/Typewriter.svelte";
     import Icon from "svelte-awesome/components/Icon.svelte";
     import Button from "../components/Button.svelte";
@@ -19,19 +20,20 @@
 
 <div class={`${$theme === "dark" ? "dark" : ""}`}>
     <div class={`relative min-h-screen dark:bg-custom-dark-theme dark:text-white font-body pb-16 `}>
-        <nav class="bg-custom-pink p-3 mb-3 text-white">
-            <div class="mx-auto container flex items-center justify-between">
-                <div class="flex items-center gap-6 text-lg">
-                    <div>
-                        <div class="pr-4">Paul Gellai Portfolio</div>
-                        <div class="text-base">
-                            <Typewriter
-                                words={["Hack", "The", "Planet", "🌎"]}
-                                next-word-interval={100}
-                            />
-                        </div>
+        <Navbar>
+            <div slot="name">
+                <div>
+                    <div class="pr-4">Paul Gellai Portfolio</div>
+                    <div class="text-base">
+                        <Typewriter
+                            words={["Hack", "The", "Planet", "🌎"]}
+                            next-word-interval={100}
+                        />
                     </div>
-                    <a href="/" class="navbar-link" class:active={$page.url.pathname === "/"}
+                </div>
+            </div>
+            <div slot="links" class="flex gap-4">
+                <a href="/" class="navbar-link" class:active={$page.url.pathname === "/"}
                         >Home</a
                     >
                     <a
@@ -45,7 +47,8 @@
                         class:active={$page.url.pathname === "/skills"}>Skills</a
                     >
                     <a href="https://blog.paulgellai.dev" class="navbar-link">Blog</a>
-                </div>
+            </div>
+            <div slot="right">
                 <Button invertColor circular on:click={() => setTheme($theme === "light" ? "dark" : "light")}>
                     {#if $theme === "dark"}
                         <Icon data={faMoon} />
@@ -54,7 +57,16 @@
                     {/if}
                 </Button>
             </div>
-        </nav>
+        </Navbar>
+        <!-- <nav class="bg-custom-pink p-3 mb-3 text-white">
+            <div class="mx-auto container flex items-center justify-between">
+                <div class="flex items-center gap-6 text-lg">
+                    
+                    
+                </div>
+                
+            </div>
+        </nav> -->
 
         <div class="mx-auto container pb-16 px-2"><slot /></div>
         <footer
