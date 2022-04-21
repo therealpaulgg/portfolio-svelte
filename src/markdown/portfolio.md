@@ -4,8 +4,8 @@ Note: any projects I put on this page are personal/freelance projects. I do quit
 
 - [Portfolio Website (haha)](https://github.com/therealpaulgg/portfolio-svelte)
 - [Start Page Website, simple but very practical](https://github.com/therealpaulgg/browser-startpage-redux)
-- Developing websites in React (React, React Native, Gatsby) for personal projects/freelance
-- Self-made blog made in VueJS 2 and Node.JS (I hope to replace this one day)
+- Developing websites in React (React, React Native, Gatsby) for personal projects/freelance, as well as Svelte (what this site and my Blog are written in)
+- Self-made blog made in VueJS 2 and Node.JS (has been replaced with a Svelte static site generated blog)
 
 ## IT Projects
 
