@@ -7,8 +7,6 @@ import rehypeStringify from "rehype-stringify";
 import frontmatter from "remark-frontmatter";
 import highlight from "rehype-highlight";
 import django from "highlight.js/lib/languages/django";
-import yaml from "yaml";
-import dayjs from "dayjs";
 
 const parser = unified().use(parse).use(gfm).use(frontmatter, ["yaml"]);
 

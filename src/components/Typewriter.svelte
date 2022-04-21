@@ -2,7 +2,6 @@
     import { onMount } from "svelte";
 
     export let speed = 100;
-    export let deleteSpeed = 30;
     export let nextWordInterval = 500;
     export let words = [];
 
