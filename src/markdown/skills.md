@@ -17,7 +17,11 @@ Software engineer with 2.5+ years of experience in industry with a wide range of
 
 ## Professional Experience
 
-### Senior Associate Software Engineer | L3Harris Technologies | February 2021 – Present
+### Engineer II | Carvana | May 2022 - Present
+
+- Full stack developer. React for frontend, .NET Core with C# for backend.
+
+### Senior Associate Software Engineer | L3Harris Technologies | February 2021 – May 2022
 
 - Created the entire Analytics internal software infrastructure utilizing Vue.JS, React.JS, Node.JS, Golang, Azure DevOps, Docker, and Drone continuous integration/continuous delivery, providing new and innovative solutions to building user-friendly internal software rapidly.
 - Built several data analytics dashboards with Vue.JS, Node.JS, and Golang, resulting in thousands of dollars in cost savings & increased employee efficiency in finance, supply chains, and operations.
@@ -51,9 +55,9 @@ Software engineer with 2.5+ years of experience in industry with a wide range of
 
 - Built a Fedora Linux server homelab with another storage server running TrueNAS Core. Server is used for home automation & development. Makes heavy use of Docker services.
 
-- Made a personal portfolio website with Vue and a blog using Svelte. The blog is highly performant and uses a static site generator to provide SEO-optimized content to users as fast as possible.
+- Made a personal portfolio website with Vue and a blog using Svelte. The blog is highly performant and uses a static site generator to provide search-engine optimized content to users as fast as possible.
 
-- Attended several hackathons in Tucson and Phoenix and have helped build interesting software projects at Sun Hacks and Hack AZ. Recently at HackAZ kept working on a personal team-based social media project with a backend written in Go.
+- Attended several hackathons in Tucson and Phoenix and have helped build interesting software projects at Sun Hacks and Hack AZ. Our project at HackAZ 2020 was a personal team-based social media project with a backend written in Go.
 
 ### Misc. Skills & Qualities
 - Software Design, Problem Solving, Server Administration, Computer Networks, Cybersecurity Mindset, Adaptability, Strong Work Ethic, Fast Learner
