@@ -1,15 +1,15 @@
 # Paul Gellai
 
-Software engineer with 2.5+ years of experience in industry with a wide range of skills & disciplines. Experienced in architecting, building, and deploying fully functional software systems utilizing full-stack development and IT skills.
+Software engineer with 3+ years of experience in industry with a wide range of skills & disciplines. Experienced in architecting, building, and deploying fully functional software systems utilizing full-stack development and IT skills.
 
 ## Skills & Abilities
 
 ### Programming Languages
-- JavaScript/TypeScript, Go, Python, Bash Scripting, SQL, Java/Kotlin, C/C++, Swift, PHP, HTML/Markdown, CSS, PowerShell
+- JavaScript/TypeScript, C#, Go, Python, Bash Scripting, SQL, Java/Kotlin, C/C++, Swift, PHP, HTML/Markdown, CSS, PowerShell
 
 ### Technologies / Frameworks
 
-- Vue.JS, TailwindCSS, Svelte, React.JS, Node.JS (Express), Chi (Golang), Flask, T-SQL, PostgreSQL, MongoDB, Git, Angular, Bootstrap, Lerna Monorepos, Docker, WSL, VSCode, Mocha, Azure DevOps, Drone CI/CD, Gatsby, Nuxt.JS, SvelteKit, Jupyter Notebooks
+- React.JS, .NET, Svelte, Node.JS (Express), Vue.JS, TailwindCSS, Chi (Golang), GraphQL, Flask, T-SQL, PostgreSQL, MongoDB, Git, Angular, Bootstrap, Lerna Monorepos, Docker, WSL, VSCode, Mocha, Azure DevOps, Drone CI/CD, Gatsby, Nuxt.JS, SvelteKit, Jupyter Notebooks
 
 ### Operating Systems
 
@@ -20,6 +20,9 @@ Software engineer with 2.5+ years of experience in industry with a wide range of
 ### Engineer II | Carvana | May 2022 - Present
 
 - Full stack developer. React for frontend, .NET Core with C# for backend.
+- Have worked on many significant projects relating to improving vehicle registrations
+- Built & maintained various REST & GraphQL APIs
+- Learned .NET and C# in a month, enabling immediate contributions to backend code
 
 ### Senior Associate Software Engineer | L3Harris Technologies | February 2021 – May 2022
 
@@ -55,9 +58,9 @@ Software engineer with 2.5+ years of experience in industry with a wide range of
 
 - Built a Fedora Linux server homelab with another storage server running TrueNAS Core. Server is used for home automation & development. Makes heavy use of Docker services.
 
-- Made a personal portfolio website with Vue and a blog using Svelte. The blog is highly performant and uses a static site generator to provide search-engine optimized content to users as fast as possible.
+- Made a personal portfolio website and blog using Svelte (formerly was Vue). The blog is highly performant and uses a static site generator to provide search-engine optimized content to users as fast as possible.
 
 - Attended several hackathons in Tucson and Phoenix and have helped build interesting software projects at Sun Hacks and Hack AZ. Our project at HackAZ 2020 was a personal team-based social media project with a backend written in Go.
 
 ### Misc. Skills & Qualities
-- Software Design, Problem Solving, Server Administration, Computer Networks, Cybersecurity Mindset, Adaptability, Strong Work Ethic, Fast Learner
+- Fast Learner, Fast Programmer, Software Design, Problem Solving, Server Administration, Computer Networks, Cybersecurity Mindset, Adaptability, Strong Work Ethic
