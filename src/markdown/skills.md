@@ -9,7 +9,7 @@ Software engineer with 3+ years of experience in industry with a wide range of s
 
 ### Technologies / Frameworks
 
-- React.JS, .NET, Svelte, Node.JS (Express), Vue.JS, TailwindCSS, Chi (Golang), GraphQL, Flask, T-SQL, PostgreSQL, MongoDB, Git, Angular, Bootstrap, Lerna Monorepos, Docker, WSL, VSCode, Mocha, Azure DevOps, Drone CI/CD, Gatsby, Nuxt.JS, SvelteKit, Jupyter Notebooks
+- React.JS, .NET, Svelte, Node.JS (Express), Vue.JS, TailwindCSS, Chi (Golang), GraphQL, ChatGPT, OpenAI API, Flask, T-SQL, PostgreSQL, MongoDB, Git, Angular, Bootstrap, Docker, WSL, VSCode, Mocha, Azure DevOps, Drone CI/CD, Gatsby, Nuxt.JS, SvelteKit, Jupyter Notebooks, Lerna Monorepos
 
 ### Operating Systems
 
