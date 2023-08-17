@@ -2,7 +2,7 @@ Note: any projects I put on this page are personal/freelance projects. I do quit
 
 ## Development Projects
 
-- To be up to date with the current trends I like to mess around with ChatGPT and OpenAI GPT4. I have messed around with some prompt engineering and tried to get it to write unit tests.
+- To be up to date with the current trends I like to mess around with ChatGPT and OpenAI GPT-4. I have messed around with some prompt engineering and tried to get it to write unit tests.
 - Built a really sweet [SSH syncing utility written in Go](https://github.com/therealpaulgg/ssh-sync). Uses secure crypto to trade keys between computers (it's super cool). Requires a client and a server.
 - [Portfolio Website (haha)](https://github.com/therealpaulgg/portfolio-svelte)
 - [Start Page Website, simple but very practical](https://github.com/therealpaulgg/browser-startpage-redux)
