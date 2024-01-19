@@ -17,7 +17,11 @@ Software engineer with over 4 years of industry experience, possessing a diverse
 
 ## Professional Experience
 
-### Engineer II | Carvana | May 2022 - Present
+### Senior Engineer I | Carvana | January 2024 - Present
+
+- Continuing to pioneer LLM applications at Carvana
+
+### Engineer II | Carvana | May 2022 - January 2024
 
 - Full stack developer. React for frontend, .NET Core with C# for backend.
 - On the bleeding edge of experimentation with new LLMs, AI, prompt engineering & testing
