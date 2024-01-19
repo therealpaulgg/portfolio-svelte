@@ -1,6 +1,6 @@
 # Paul Gellai
 
-Software engineer with over 4 years of industry experience, possessing a diverse skill set across various disciplines and working extensively across the entire technology stack. Experienced in architecting, building, and deploying fully functional software systems utilizing comprehensive full-stack development and IT skills.
+Senior software engineer possessing a diverse skill set across various disciplines and working extensively across the entire technology stack. Experienced in architecting, building, and deploying fully functional software systems utilizing comprehensive full-stack development and IT skills.
 
 ## Skills & Abilities
 
