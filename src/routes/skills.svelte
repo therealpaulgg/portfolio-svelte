@@ -43,7 +43,7 @@
         <ul>
             {#each emails as email, i}
                 <li>
-                    <a class="hover:text-custom-light-pink" href={`mailto:${b64decode(email)}`}
+                    <a class="hover:text-custom-light-blue" href={`mailto:${b64decode(email)}`}
                         >{b64decode(email)}</a
                     >
                 </li>

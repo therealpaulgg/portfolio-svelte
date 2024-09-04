@@ -12,7 +12,9 @@ module.exports = {
                     "steel-black": "#151919",
                     "soft-red": "#fb464d",
                     "light-pink": "#f55186",
-                    pink: "#e02662"
+                    pink: "#e02662",
+                    "light-blue": "#70a5fa",
+                    blue: "#4173c4"
                 }
             }
         },

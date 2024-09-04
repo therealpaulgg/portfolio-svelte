@@ -12,7 +12,7 @@
     {type}
     {disabled}
     class={`${
-        active ? "bg-custom-light-pink text-black" : invertColor ? "bg-gray-300" : "bg-custom-titanium"
+        active ? "bg-custom-light-blue text-black" : invertColor ? "bg-gray-300" : "bg-custom-titanium"
     } ${invertColor ? 'text-black' : 'text-white'}   shadow text-sm transition duration-200 m-1 btn ${
         uppercase ? "uppercase" : ""
     } py-2 px-4 ${
@@ -20,7 +20,7 @@
     } ${
         disabled
             ? "opacity-50 cursor-not-allowed "
-            : "hover:bg-custom-light-pink hover:text-white "
+            : "hover:bg-custom-light-blue hover:text-white "
     }`}
 >
     <slot />

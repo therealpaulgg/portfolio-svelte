@@ -11,7 +11,7 @@ let collapsed = true
 
 
 
-<nav class="bg-custom-pink p-3">
+<nav class="bg-custom-blue p-3">
     <div class="mx-auto container sm:px-4">
         <div class="relative flex items-center justify-between h-16">
             <div
