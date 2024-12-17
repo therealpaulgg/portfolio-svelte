@@ -25,4 +25,4 @@ tool to quickly spin up & manage game server instances.
 - I have set up & used Arch Linux before, but I have now decided it is too much effort to maintain a functional OS for personal use
 - I've actively used all three main operating systems: Linux, MacOS, and Windows. Currently I'm using Windows with WSL 2, and a Fedora VM for any cybersecurity activities (like CTFs).
 - I've played some CTFs with [Shellphish](https://ctftime.org/team/285/), although I'm not that good. My primary interests are web, crypto, and pwn. I also like network security.
-- My fastest typing speed record is [177 wpm](https://static.paulgellai.dev/personal/typing_speed.png). My normal typing speed is realistically around 150.
+- My fastest typing speed record is [182 wpm](https://static.paulgellai.dev/personal/typing_speed.png). My normal typing speed is realistically around 150.
