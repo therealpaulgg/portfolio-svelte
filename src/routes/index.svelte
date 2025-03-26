@@ -45,15 +45,6 @@
             <a class="mx-2 hover:text-custom-light-blue" href="mailto:paul@paul.systems">
                 <Icon data={faEnvelope} scale={2} />
             </a>
-            <a class="mx-2 hover:text-custom-light-blue" href="https://keybase.io/therealpaulgg">
-                <Icon data={faKeybase} scale={2} />
-            </a>
-            <a
-                class="mx-2 hover:text-custom-light-blue"
-                href="https://keys.openpgp.org/vks/v1/by-fingerprint/AD240A0359379DD45AF9BAC82ED4A29D63852003"
-            >
-                <Icon data={faKey} scale={2} />
-            </a>
         </div>
     </div>
     <hr>
